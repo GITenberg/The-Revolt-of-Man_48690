@@ -1,4 +1,8 @@
 _repo: The-Revolt-of-Man_48690
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48690-h/images/cover.jpg
 creator:
   author:
     agent_name: Besant, Walter
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5404
     wikipedia: http://en.wikipedia.org/wiki/Walter_Besant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48690#The-Revolt-of-Man
 gutenberg_issued: '2015-04-12'
 gutenberg_type: Text
 identifiers:
